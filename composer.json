@@ -1,0 +1,17 @@
+{
+    "name": "dvornikov/tq",
+    "description": "A test questions for Rivasense",
+    "keywords": ["rivasense", "laravel", "php"],
+    "authors": [
+        {
+            "name": "Eugene Dvornikov",
+            "email": "eugene@dvornikov.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.2.*",
+        "laravelcollective/html": "^5.2"
+    },
+    "minimum-stability": "dev"
+}
